@@ -1,0 +1,5 @@
+---
+name: tern_ble_zmk
+build:
+  settings:
+    board_root: .
